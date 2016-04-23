@@ -30,10 +30,10 @@ Create an artificial intelligence able to beat a real human to a game
 The goal here is to win at the matches game. You can take 1, 2 or 3 matches maximum per line in one turn. The one who picks up the last match loose the game.
 
 First compile the project
-  $ make 
+- $ make 
 
 Usage: 
-  $ ./allum1 <file>
+- $ ./allum1 <file>
 
 *(example file : allum)*
 
