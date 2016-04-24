@@ -1,12 +1,4 @@
-/*
-** my_puts.c for my_puts in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Thu Feb  7 11:40:35 2013 masson_k
-** Last update Wed Feb 13 15:08:39 2013 masson_k
-*/
+
 
 void	my_putchar(char a)
 {

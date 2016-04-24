@@ -1,12 +1,3 @@
-/*
-** allum1.c for allum1 in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Mon Feb  4 15:38:41 2013 masson_k
-** Last update Sun Feb 17 10:44:14 2013 masson_k
-*/
 
 #include	<stdlib.h>
 #include	<unistd.h>

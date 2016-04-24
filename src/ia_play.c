@@ -1,12 +1,3 @@
-/*
-** ia_play.c for ia_play in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Wed Feb 13 13:59:39 2013 masson_k
-** Last update Sun Feb 17 10:33:32 2013 masson_k
-*/
 
 #include	<stdlib.h>
 #include	"allum1.h"

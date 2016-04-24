@@ -1,12 +1,3 @@
-/*
-** mode.c for mode in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Wed Feb 13 15:13:24 2013 masson_k
-** Last update Sun Feb 17 10:11:13 2013 masson_k
-*/
 
 #include	<stdlib.h>
 #include	"allum1.h"

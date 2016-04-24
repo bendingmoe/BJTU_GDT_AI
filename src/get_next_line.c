@@ -1,12 +1,3 @@
-/*
-** get_next_line.c for wolf in /home/masson_k/epitech/Igraph/wolf
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Tue Jan  8 09:36:35 2013 masson_k
-** Last update Thu Feb  7 10:13:59 2013 masson_k
-*/
 
 #include	<unistd.h>
 #include	<stdlib.h>

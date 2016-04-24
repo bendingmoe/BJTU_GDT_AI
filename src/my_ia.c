@@ -1,12 +1,4 @@
-/*
-** my_ia.c for my_ia in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Tue Feb 12 11:59:31 2013 masson_k
-** Last update Sun Feb 17 10:12:39 2013 masson_k
-*/
+
 
 #include	<stdlib.h>
 #include	"allum1.h"

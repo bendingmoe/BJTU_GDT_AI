@@ -1,12 +1,3 @@
-/*
-** my_strs.c for my_strs in /home/masson_k/epitech/minishell
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Tue Dec 18 11:02:31 2012 masson_k
-** Last update Sun Feb 17 10:34:35 2013 masson_k
-*/
 
 #include	<stdlib.h>
 #include	"allum1.h"

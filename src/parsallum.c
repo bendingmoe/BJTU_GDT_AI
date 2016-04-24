@@ -1,12 +1,3 @@
-/*
-** calcul.c for calcul in /home/masson_k/epitech/Igraph/wolf
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Tue Jan  8 17:13:27 2013 masson_k
-** Last update Thu Feb  7 12:19:41 2013 masson_k
-*/
 
 #include	<stdlib.h>
 #include	<unistd.h>

@@ -1,12 +1,3 @@
-/*
-** players.c for players in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Wed Feb 13 15:38:56 2013 masson_k
-** Last update Sun Feb 17 10:15:20 2013 masson_k
-*/
 
 #include	<stdlib.h>
 #include	"allum1.h"

@@ -1,12 +1,3 @@
-/*
-** two_players.c for two_players in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Tue Feb 12 10:09:31 2013 masson_k
-** Last update Sun Feb 17 10:17:25 2013 masson_k
-*/
 
 #include	<stdlib.h>
 #include	"allum1.h"

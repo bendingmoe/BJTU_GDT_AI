@@ -1,12 +1,3 @@
-/*
-** line_number.c for line_number in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Wed Feb 13 14:12:28 2013 masson_k
-** Last update Sun Feb 17 10:33:42 2013 masson_k
-*/
 
 #include	<stdlib.h>
 #include	"allum1.h"

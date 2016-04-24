@@ -1,12 +1,3 @@
-/*
-** my_put_nbr.c for  in /home/garner_p//Jour_03
-** 
-** Made by philip garnero
-** Login   <garner_p@epitech.net>
-** 
-** Started on  Wed Oct  3 20:27:20 2012 philip garnero
-** Last update Fri Feb  8 12:04:14 2013 masson_k
-*/
 
 int	my_put_nbr(int nb)
 {

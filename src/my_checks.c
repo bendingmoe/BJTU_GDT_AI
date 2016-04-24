@@ -1,12 +1,3 @@
-/*
-** my_checks.c for my_checks in /home/masson_k/epitech/allum1
-** 
-** Made by masson_k
-** Login   <masson_k@clovis-HP-EliteBook-8560p>
-** 
-** Started on  Wed Feb 13 13:56:03 2013 masson_k
-** Last update Sun Feb 17 10:33:55 2013 masson_k
-*/
 
 #include	"allum1.h"
 
